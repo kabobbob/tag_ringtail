@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |s|
   s.name        = 'tag_ringtail'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.authors     = ['Bob McClellan Jr']
   s.email       = ['bob.mcclellan@gmail.com']
   s.homepage    = 'https://github.com/kabobbob/tag_ringtail'
